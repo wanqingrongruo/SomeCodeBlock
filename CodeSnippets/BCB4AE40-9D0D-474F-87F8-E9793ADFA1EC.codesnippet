@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ç</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/*:
+ &lt;#`类型名` 描述
+ 
+ ## Overview -- 主要功能
+ &lt;# des&gt;
+ 
+ ## Initializers -- 初始化
+ &lt;#You can create an IntArray in the following ways:#&gt;
+
+ // An empty IntArray
+ &lt;#var empty: IntArray = []#&gt;
+
+ // Initialzied by an array literal
+ &lt;#var odds: IntArray = [0, 2, 4, 6, 8]#&gt;
+
+ // Initialized by a default value
+ &lt;#var tenInts: IntArray = IntArray(repeating: 0, count: 10) #&gt;
+
+ ## Value semantics -- 语义
+ - important:
+ &lt;#des#&gt;
+ 
+ ---
+ 
+ - note:
+&lt;# 补充说明 #&gt;
+ */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BCB4AE40-9D0D-474F-87F8-E9793ADFA1EC</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>自定义类型的标注模板</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>CustomTypeAnnation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

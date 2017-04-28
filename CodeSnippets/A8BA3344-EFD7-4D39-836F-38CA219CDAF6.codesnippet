@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>π</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/*:
+  &gt; # IMPORTANT: &lt;#something important#&gt;
+  &lt;#General description#&gt;
+  1. &lt;#item1#&gt;
+  2. &lt;#item2#&gt;
+  3. &lt;#item3#&gt;
+  ---
+  [More info - &lt;#ref#&gt;](&lt;#Link#&gt;)
+ */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A8BA3344-EFD7-4D39-836F-38CA219CDAF6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Playground里面注释模块</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>PlaygroundAnnotation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

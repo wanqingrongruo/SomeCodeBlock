@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ƒ</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/// &lt;# 功能描述: Returns a subsequence containing all but the specified number of final#&gt;
+///
+/// &lt;# 使用场景 If the number of elements to drop exceeds the number of elements in the collection, the result is an empty subsequence.#&gt;
+///
+///     let numbers = [1, 2, 3, 4, 5]
+///     print(numbers.dropLast(2))
+///     // Prints "[1, 2, 3]"
+///     print(numbers.dropLast(10))
+///     // Prints "[]"
+///
+/// - &lt;#Parameter n: The number of elements to drop off the end of the collection.#&gt;
+   &lt;#`n` must be greater than or equal to zero.#&gt;
+///
+/// - Returns: &lt;#A subsequence that leaves off `n` elements from the end.#&gt;
+///
+/// - Complexity: &lt;#O(*n*), where *n* is the number of elements to drop.#&gt;
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7522B4B0-49CF-4F20-810A-643EFEA3F01E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>函数或方法的注释模板</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>FuncAnnotation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
